@@ -1,0 +1,1 @@
+target_sources(${PROJECT_NAME} PUBLIC main.cc read_wordlist.cc find_possible_words.cc)
